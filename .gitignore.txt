@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Modelos descargados
+*.bin
+*.pth
+*.safetensors
+
+# Archivos temporales
+*.tmp
+*.temp
